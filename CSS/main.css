@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.center {
+  text-align: center;
+}
+h3 {
+  font-size: 25px;
+}
+body {
+  background-color: #9bc3fa;
+   font-family: "Roboto Condensed", sans-serif;
+   letter-spacing: 2px;
+   word-spacing: 5px;
+}
+.copy {
+  cursor: pointer;
+}
+img {
+  border: 10px solid #6ba9ff;
+  border-style: inset;
+  border-radius: 30px;
+}
+img {
+  margin: 0;
+}
