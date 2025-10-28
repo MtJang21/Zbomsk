@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.center {
+  text-align: center;
+  width: 1550px;
+  height: 70px;
+  background: #5c99fa;
+  border: 10px solid #4389fa;
+  border-radius: 35px;
+
+}
+h3 {
+  font-size: 25px;
+}
+body {
+  background-color: #9bc3fa;
+   font-family: "Roboto Condensed", sans-serif;
+   letter-spacing: 2px;
+   word-spacing: 5px;
+}
+.copy {
+  cursor: pointer;
+}
+img {
+  border: 10px solid #6ba9ff;
+  border-style: inset;
+  border-radius: 30px;
+}
+.cen {
+  text-align: center;
+}
